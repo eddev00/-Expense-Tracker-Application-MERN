@@ -1,1 +1,1 @@
-# -Expense-Tracker-Application-MERN
+# Expense-Tracker-Application-MERN
